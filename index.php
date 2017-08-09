@@ -8,10 +8,10 @@
 </head>
 <body>
 <?php
- while (list($var,$value) = each ($_ENV)) {
-      echo "$var => $value <br />";
-   }
-
+// while (list($var,$value) = each ($_ENV)) {
+//      echo "$var => $value <br />";
+//   }
+//
 ?>
 <section class='container'>
           <hgroup>
