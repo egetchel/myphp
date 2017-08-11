@@ -15,7 +15,7 @@
 ?>
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Version 2 of your PHP application on OpenShift!</h1><img src="/openshift_transparent.png" width="500px"/>
+            <h1>Welcome to your PHP application on OpenShift!</h1><img src="/openshift_transparent.png" width="500px"/>
           </hgroup>
 
         <div class="row">
